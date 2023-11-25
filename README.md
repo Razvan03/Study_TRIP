@@ -29,7 +29,11 @@ Secure login and user management system.
 Automated email notifications with workshop details and recordings.
 
 ## Technology Stack
+
 Frontend: React.js, Material-UI
+
 Backend: Spring Boot
+
 Database: MySQL
+
 Additional Technologies: Docker, Azure, JUnit, Jest, AI/ML algorithms (PyTorch) etc.
